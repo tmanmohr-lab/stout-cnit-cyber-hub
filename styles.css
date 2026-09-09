@@ -31,7 +31,6 @@ padding: 24px;
 max-width: 860px;
 margin: 0 auto;
 }
-<<<<<<< HEAD
 .main-nav {
 background-color: #00263e;
 text-align: center;
@@ -64,7 +63,7 @@ color: white;
 text-align: center;
 padding: 20px;
 margin-top: 40px;
-=======
+}
 .hub-card {
 background-color: white;
 padding: 22px;
@@ -86,5 +85,4 @@ color: #005a7a;
 border-radius: 14px;
 font-size: 0.75rem;
 font-weight: bold;
->>>>>>> origin/main
 }
